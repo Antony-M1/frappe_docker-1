@@ -96,6 +96,9 @@ Refrence Docuemnt
 ```
 pyenv install 3.9.17
 ```
+```
+npm install -g yarn
+```
 ```shell
 nvm use v14
 PYENV_VERSION=3.9.17 bench init --skip-redis-config-generation --frappe-branch version-13 frappe-bench
