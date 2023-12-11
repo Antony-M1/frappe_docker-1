@@ -90,6 +90,9 @@ cd frappe-bench
 ```
 
 To setup frappe framework version 13 bench set `PYENV_VERSION` environment variable to `3.9.17` and use NodeJS version 14,
+
+Refrence Docuemnt
+* [ERROR: There was a problem while creating frappe-bench](https://discuss.frappe.io/t/error-there-was-a-problem-while-creating-frappe-bench-in-linux/114329)
 ```
 pyenv install 3.9.17
 ```
